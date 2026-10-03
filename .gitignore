@@ -1,0 +1,8 @@
+# Visual Studio / C# ignore file
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
